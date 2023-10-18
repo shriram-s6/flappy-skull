@@ -1,0 +1,9 @@
+The pipes move fast when we are crossing the pipe
+
+Make the code changes with design patterns implementation
+
+Write two pages paper
+
+check if everything works in all the OS
+
+Do the demo presentation
